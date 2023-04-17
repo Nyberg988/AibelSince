@@ -65,7 +65,7 @@ li a:hover {
 /* hero section  */
 .hero {
     width: 100vw;
-    height: 100vh;
+    height: 65vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -88,7 +88,7 @@ span {
     font-weight: 800;
     font-size: 3.5rem;
     line-height: 56px;
-    background: linear-gradient(266.52deg, rgb(212, 78, 0) 57.51%, #f6f8f8 78.55%);
+    background: linear-gradient(266.52deg, rgb(0, 0, 0) 57.51%, #f6f8f8 78.55%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -96,9 +96,9 @@ span {
     text-transform: uppercase;
 }
 
-/* bikes section */
-#bikes-section {
-    background: url(../image/tshirt.png) no-repeat center center fixed; 
+/* clothes section */
+#clothes-section {
+    background: url() no-repeat center center fixed; 
     background-size: cover;
     margin-top: 3rem
 }
@@ -288,21 +288,21 @@ p {
     margin-bottom: 2rem;
 }
 
-/* bikes page */
+/* clothes page */
 /* title tag is from home page */
 .title,
-.title-bikes {
+.title-clothes {
     margin-top: 1rem;
     text-align: center;
     font-size: 24px;
     font-weight: bold;
 }
 
-.title-bikes {
+.title-clothes {
     margin-top: 4rem;
 }
 
-.bikes-container {
+.clothes-container {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -311,26 +311,36 @@ p {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    color: #fff;
+    color: #000000;
     margin: 1rem;
     line-height: 120%;
     /* letter-spacing: 2px; */
 }
 
-#bikes-1 {
+#clothes-1 {
     background-image:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('../image/tshirt.png');
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 28%;
+        height: 100%;
 }
 
-#bikes-2 {
+#clothes-2 {
     background-image:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('../image/keps.png');
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 28%;
+        height: 100%;
 }
 
-#bikes-3 {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('../image/poke.webp');
+#clothes-3 {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('../image/Aibel\ 2023.jpg');
 }
 
 .head-3 {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-size: 24px;
     padding: 0.5rem;
     margin-top: 2rem;
@@ -339,15 +349,15 @@ p {
     font-weight: bold;
     text-transform: capitalize;
     width: 30%;
-    text-align: start;
+    text-align: center;
     text-decoration: underline;
     text-decoration-color: rgb(84, 199, 248);
     text-underline-offset: 3px;
     text-decoration-thickness: 5px;
 }
 
-.bikes-container .information-side ol > li,
-.bikes-container .prices-side ol > li {
+.clothes-container .information-side ol > li,
+.clothes-container .prices-side ol > li {
     padding: 0.5rem;
 }
 
@@ -447,11 +457,11 @@ h1 {
     font-size: 2.3rem;
 }
 
-/* bikes page */
-.bikes-container {
+/* clothes page */
+.clothes-container {
     flex-direction: column;
 }
-.bikes-container .prices-side
+.clothes-container .prices-side
 .head-3 {
     padding-top: 3.5rem;
 }
