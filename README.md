@@ -1,31 +1,25 @@
-# Rent A Bike!
-This is what a "Rent a bike page" could look like.
-The difference from Renting Cars, you can now also rent Motorcycles.
+# Aibel Since Athletic
 
-![ami](https://user-images.githubusercontent.com/106691587/198684548-c3712f0b-4a7d-437c-a3e6-f2be8897d094.png)
+![1a](https://user-images.githubusercontent.com/106691587/234300814-49eb84b1-5269-4b3b-80c3-499c37423619.png)
 
 # Features
 # Heading, Title
-At the top of the page you find the navigation buttons to the right, Home, Bikes and Contact Us.
-
-In the middle of the page you will find the title - Welcome To Rent A Bike!
-
-![2022-10-28 (4)](https://user-images.githubusercontent.com/106691587/198685703-1cbfffad-97b6-4c77-8d4e-450da4d5fad4.png)
-
+At the top of the page you find the navigation buttons to the right, Home, Clothes and Contact Us.
 # Bottom
-At the bottom of the page you will find two different buttons that take you to the selected option - Harley Davidson or Indian.
+At the bottom of the page you will find two different buttons that take you to the selected option - T-shirt or Cap.
 
-![2022-10-28 (5)](https://user-images.githubusercontent.com/106691587/198686418-1ccac564-36aa-4b20-9ab6-e269d5df0eda.png)
+![2a](https://user-images.githubusercontent.com/106691587/234301009-bdc92654-682f-44cd-a295-572f5655cb86.png)
 
-# Bikes Page
+# Clothes Page
 Here you can see which models are available and the price.
 
-![bikes](https://user-images.githubusercontent.com/106691587/198686923-a262b591-f12d-4499-b47b-f233a140e8cf.png)
+![3a](https://user-images.githubusercontent.com/106691587/234301396-9f609d81-1d68-4a0c-b47b-72e850497a6e.png)
+![4a](https://user-images.githubusercontent.com/106691587/234301427-dc2ee603-6963-43db-8878-1c7f20e5132c.png)
 
 # Contact Page
-Here you find the Contact form, in case of any questions.
+Here you find the Contact, in case of any questions.
 
-![contact](https://user-images.githubusercontent.com/106691587/198687226-ea2fac5e-7d7b-4861-93ab-13a928840f62.png)
+![5a](https://user-images.githubusercontent.com/106691587/234301500-5cc5cb18-1369-4b7e-a122-a3a5258c7d43.png)
 
 # Validator Testing
 # HTML 
