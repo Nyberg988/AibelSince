@@ -21,20 +21,9 @@ Here you find the Contact, in case of any questions.
 
 ![5a](https://user-images.githubusercontent.com/106691587/234301500-5cc5cb18-1369-4b7e-a122-a3a5258c7d43.png)
 
-# Validator Testing
-# HTML 
-No errors were returned when passing through the official W3C validator.
-
-![html check](https://user-images.githubusercontent.com/106691587/198687279-4ee0870b-5361-473f-949b-8baa0156a3f2.png)
-
-# CSS  
-No errors were found when passing through the official (jigsaw) validator.
-
-![css check](https://user-images.githubusercontent.com/106691587/198687355-f255f24d-ab20-45fb-ae04-cefd3aea98dc.png)
-
 # LightHouse
 
-![lighthouse](https://user-images.githubusercontent.com/106691587/198687377-993a2a89-f015-4f7c-bbcf-05d810caeeb2.png)
+![2023-04-25 (5)](https://user-images.githubusercontent.com/106691587/234308137-22f269bb-7a42-4997-ad9c-238cdba94d94.png)
 
 # Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -45,8 +34,11 @@ From the source section drop-down menu, select the Master Branch.
 
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here -https://nyberg988.github.io/Rentabike2/index.html
+# Facebook Page
 
-# Media
-The images in the site was taken from Pexels.com
+![2023-04-25 (6)](https://user-images.githubusercontent.com/106691587/234308413-65f38190-6c01-44d0-972b-cff88ce530ed.png)
+
+
+The live link can be found here - https://nyberg988.github.io/AibelSince/
+
 
